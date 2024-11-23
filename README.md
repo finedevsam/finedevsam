@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Building Africa's first wallet System that allows Africans to make payments across the continent. <br>👯 I’m looking to collaborate on building an open-source fraud detection system for Africans.<br>🤝 I’m looking for help with an Open-source project on financial technology<br>🌱 I’m currently learning Data Engineering<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Building Africa's first wallet System that allows Africans to make payments across the continent and connect africa to the rest of the world. <br>👯 I’m looking to collaborate on building an open-source fraud detection system for Africans.<br>🤝 I’m looking for help with an Open-source project on financial technology<br>🌱 I’m currently learning Data Engineering<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
